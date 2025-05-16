@@ -34,7 +34,7 @@ This website is a showcase of selected works, skills, and a contact section for 
 
 ---
 
-## 📷 Screenshots
-![Homepage Screenshot](./screenshots/homepage.png)
+## Designed & Developed by Mohd Kaif
+Built with ❤️ using React, Tailwind CSS, and Framer Motion
 
 
