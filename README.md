@@ -1,12 +1,40 @@
-# React + Vite
+# 🎨 Umar Masih — Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the official portfolio website of **Umar Masih**, a passionate and creative **Graphic Designer** who specializes in visual storytelling, branding, and digital design.
 
-Currently, two official plugins are available:
+This website is a showcase of selected works, skills, and a contact section for potential clients or collaborators.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🌐 Live Demo
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+> 🔗 **Live Site:** *Coming Soon*  
+> 📸 **Screenshots:**  
+> _Screenshots of the landing page, works section, and contact form will be added here._
+
+---
+
+## 🚀 Tech Stack
+
+- **React** – Frontend JavaScript library for building user interfaces  
+- **Tailwind CSS** – Utility-first CSS framework for rapid UI styling  
+- **Framer Motion** – Animation library for smooth and elegant transitions  
+- **React Bits** – Reusable component patterns and logic extraction  
+- **EmailJS** – For sending contact form emails directly from the frontend
+
+---
+
+## ✨ Features
+
+- 🎨 Clean, modern, and responsive UI
+- 🖼️ Dynamic project gallery with hover and animation effects
+- 🎞️ Smooth scroll and transition animations using Framer Motion
+- 💌 Contact form powered by EmailJS (no backend required)
+- 🌑 Dark-themed aesthetic tailored for creative portfolios
+
+---
+
+## 📷 Screenshots
+![Homepage Screenshot](./screenshots/homepage.png)
+
+
