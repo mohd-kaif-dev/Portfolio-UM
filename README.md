@@ -8,9 +8,11 @@ This website is a showcase of selected works, skills, and a contact section for 
 
 ## 🌐 Live Demo
 
-> 🔗 **Live Site:** *Coming Soon*  
-> 📸 **Screenshots:**  
-> _Screenshots of the landing page, works section, and contact form will be added here._
+> 🔗 **Live Site:** - https://umar-masih-gd.vercel.app
+
+## 📷 Screenshot
+
+-![LandingPage](./public/LandingPage.png)
 
 ---
 
