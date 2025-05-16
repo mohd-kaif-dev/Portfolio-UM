@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Big+Shoulders:opsz,wght@10..72,100..900&family=Boldonse&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+@import "tailwindcss";
+
+@theme {
+  --color-primary: black;
+  --font-roboto: "Roboto", sans-serif;
+  --font-inter: "Inter", sans-serif;
+  --font-boldonse: "Boldonse", sans-serif;
+  --font-montserrat: "Montserrat", sans-serif;
+  --font-lato: "Lato", sans-serif;
+  --font-bebas-neue: "Bebas Neue", sans-serif;
+  --font-big-shoulders: "Big Shoulders", sans-serif;
+}
+
+@font-face {
+  font-family: "Contten";
+  src: url("./assets/contten.ttf") format("truetype");
+  font-optical-sizing: auto;
+}
+
+@font-face {
+  font-family: "Miscala";
+  src: url("./assets/Miscala.ttf") format("truetype");
+  font-optical-sizing: auto;
+}
+
+@font-face {
+  font-family: "Blanck";
+  src: url("./assets/blanck.ttf") format("truetype");
+  font-optical-sizing: auto;
+}
+
+@font-face {
+  font-family: "PP";
+  src: url("./assets/PPFormula.ttf") format("truetype");
+  font-optical-sizing: auto;
+}
+
+html,
+body {
+  font-family: "Lato", sans-serif;
+  background-color: black;
+  color: white;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
